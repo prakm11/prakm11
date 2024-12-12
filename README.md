@@ -22,6 +22,8 @@ Data Science and Software Development focused professional with experience in th
 
 - Technologies: Python, Pandas, Scikit-learn, Jupyter Notebook.
 
+- **[GitHub Repository](https://github.com/shreyaisharani/JPMC-5)**
+
 💼 Tenant Self-Service Portal (Capital One Capstone)
 
 - Goal: Develop a web portal enabling platform tenants to manage datasets and workflows independently.
